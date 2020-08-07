@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skybrud.Umbraco.GridData", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{65A596DD-3457-489F-B4FC-9713D1BB3B2A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jcdcdev.Umbraco.GridData.DocTypeGridEditor", "Jcdcdev.Umbraco.GridData.DocTypeGridEditor\Jcdcdev.Umbraco.GridData.DocTypeGridEditor.csproj", "{3A632E65-E1EF-4D8F-9E54-4814B7F4C3DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

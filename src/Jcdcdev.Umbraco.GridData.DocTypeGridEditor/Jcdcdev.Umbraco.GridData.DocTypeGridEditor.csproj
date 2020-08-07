@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Our.Umbraco.DocTypeGridEditor" Version="1.1.0" />
+    <PackageReference Include="UmbracoCms.Core" Version="8.1.0" />
+    <PackageReference Include="Skybrud.Umbraco.GridData" Version="3.0.1" />
+  </ItemGroup>
+</Project>
